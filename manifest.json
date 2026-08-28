@@ -1,0 +1,9 @@
+{
+  "id": "true-bestiary",
+  "name": "True Bestiary",
+  "version": "1.0.0",
+  "author": "Karenpresci and Lxndxn",
+  "description": "Reveals enemy drops in the Bestiary after the first kill.",
+  "entry": "TrueBestiary.dll",
+  "icon": "icon.png"
+}
